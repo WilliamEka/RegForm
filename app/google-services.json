@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "611989711767",
+    "firebase_url": "https://regform-4f25b.firebaseio.com",
+    "project_id": "regform-4f25b",
+    "storage_bucket": "regform-4f25b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611989711767:android:08f75ade11a2effb2eb2d2",
+        "android_client_info": {
+          "package_name": "com.example.android.aegis_proto5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611989711767-ctnm04mie8k554e0qgmp0n7ofia3plfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCues1f3mXoegITthEucNfiIjP7jlhPFUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611989711767-ctnm04mie8k554e0qgmp0n7ofia3plfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611989711767:android:b8d2f4ff9a9ae73d2eb2d2",
+        "android_client_info": {
+          "package_name": "com.example.android.registrationform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611989711767-ctnm04mie8k554e0qgmp0n7ofia3plfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCues1f3mXoegITthEucNfiIjP7jlhPFUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611989711767-ctnm04mie8k554e0qgmp0n7ofia3plfg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

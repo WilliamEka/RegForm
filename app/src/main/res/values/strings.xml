@@ -1,0 +1,212 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    
+    <string-array name="cabang">
+        <item>Alam Sutera</item>
+        <item>Cakung</item>
+        <item>Cikokol</item>
+        <item>Cikupa</item>
+        <item>Ciledug</item>
+        <item>Cipondoh</item>
+        <item>Mampang Prapatan</item>
+        <item>Pondok Cabe</item>
+        <item>Pos Pengumben</item>
+        <item>Samanhudi</item>
+        <item>Sunter</item>
+    </string-array>
+
+    <string-array name="jenisKendaraan">
+        <item>Pajero Sport</item>
+        <item>Xpander</item>
+        <item>Outlander PHEV</item>
+        <item>Outlander Sport</item>
+        <item>Triton</item>
+        <item>Eclipse Cross Ultimate</item>
+        <item>L300</item>
+        <item>Fuso Colt Diesel</item>
+        <item>Fuso Fighter</item>
+        <item>Tractor head FN 62 F TH</item>
+    </string-array>
+
+    <string-array name="pajeroSport">
+        <item>Pajero Sport Ruckford Fosgate Limited</item>
+        <item>Pajero Sport Dakar 4x4</item>
+        <item>Pajero Sport Dakar 4x2</item>
+        <item>Pajero Sport Dakar 4x2 Ultimate</item>
+        <item>Pajero Sport Exceed AT</item>
+        <item>Pajero Sport Exceed MT</item>
+        <item>Pajero Sport GLX</item>
+    </string-array>
+
+    <string-array name="xpander">
+        <item>Xpander Ultimate</item>
+        <item>Xpander Limited</item>
+        <item>Xpander Sport AT</item>
+        <item>Xpander Sport MT</item>
+        <item>Xpander Exceed AT</item>
+        <item>Xpander Exceed MT</item>
+        <item>Xpander GLS AT</item>
+        <item>Xpander GLS MT</item>
+        <item>Xpander GLX</item>
+    </string-array>
+
+    <string-array name="outlanderSport">
+        <item>Outlander Sport PX Action</item>
+        <item>Outlander Sport GLS</item>
+        <item>Outlander Sport GLX</item>
+    </string-array>
+
+    <string-array name="triton">
+        <item>Triton Ultimate</item>
+        <item>Triton Exceed AT</item>
+        <item>Triton Exceed MT</item>
+        <item>Triton GLS</item>
+        <item>Triton HDX DC</item>
+        <item>Triton HDX SC</item>
+        <item>Triton GLX SC</item>
+        <item>Triton GLX Cabin Chasis</item>
+        <item>Triton Athlete AT</item>
+        <item>Triton Athlete MT</item>
+    </string-array>
+
+    <string-array name="L300">
+        <item>L300 Pick up</item>
+        <item>L300 Flatdeck</item>
+        <item>L300 Cabin Chasis</item>
+    </string-array>
+
+    <string-array name="fusoColtDiesel">
+        <item>Fuso Colt Diesel FE 71</item>
+        <item>Fuso Colt Diesel FE 71 BC</item>
+        <item>Fuso Colt Diesel FE 71 LBC</item>
+        <item>Fuso Colt Diesel FE 71 L</item>
+        <item>Fuso Colt Diesel FE 73</item>
+        <item>Fuso Colt Diesel FE 73 HD</item>
+        <item>Fuso Colt Diesel FE 74 HD</item>
+        <item>Fuso Colt Diesel FE 74 L</item>
+        <item>Fuso Colt Diesel FE 74 S</item>
+        <item>Fuso Colt Diesel FE 84G HDL</item>
+        <item>Fuso Colt Diesel FE 84G BC</item>
+        <item>Fuso Colt Diesel FE SHD</item>
+        <item>Fuso Colt Diesel FE SHDX</item>
+    </string-array>
+
+    <string-array name="fusoFighter">
+        <item>Fuso Fighter FM 65 FL Hi-Gear</item>
+        <item>Fuso Fighter FM 65 FS Hi-Gear</item>
+        <item>Fuso Fighter FM 65 FS</item>
+        <item>Fuso Fighter FM 65 FM Hi-Gear</item>
+        <item>Fuso Fighter FM 65 FM</item>
+        <item>Fuso Fighter FM 65 FSL Hi-Gear</item>
+        <item>Fuso Fighter FM 65 FSL</item>
+        <item>Fuso Fighter FM 65 FL</item>
+        <item>Fuso Fighter FN 62 F</item>
+        <item>Fuso Fighter FN 62 F HD</item>
+        <item>Fuso Fighter FN 61 FS</item>
+        <item>Fuso Fighter FN 61 FL</item>
+        <item>Fuso Fighter FN 61 FM HD</item>
+        <item>Fuso Fighter FM 517 HL Long</item>
+        <item>Fuso Fighter FM 517 HL</item>
+        <item>Fuso Fighter FM 517 HS</item>
+        <item>Fuso Fighter FN 517 ML 2 Super Long</item>
+        <item>Fuso Fighter FN 517 ML 2</item>
+        <item>Fuso Fighter FN 527 MS</item>
+        <item>Fuso Fighter FN 527 ML</item>
+    </string-array>
+
+    <string-array name="jenisPembayaran">
+        <item>Cash</item>
+        <item>Credit</item>
+    </string-array>
+
+    <string-array name="luckyDip">
+        <item>Please choose...</item>
+        <item>No</item>
+        <item>Yes</item>
+    </string-array>
+
+    <string-array name="tipeKend">
+        <item>Pajero Sport Ruckford Fosgate Limited</item>
+        <item>Pajero Sport Dakar 4x4</item>
+        <item>Pajero Sport Dakar 4x2</item>
+        <item>Pajero Sport Dakar 4x2 Ultimate</item>
+        <item>Pajero Sport Exceed AT</item>
+        <item>Pajero Sport Exceed MT</item>
+        <item>Pajero Sport GLX</item>
+
+        <item>Xpander Ultimate</item>
+        <item>Xpander Limited</item>
+        <item>Xpander Sport AT</item>
+        <item>Xpander Sport MT</item>
+        <item>Xpander Exceed AT</item>
+        <item>Xpander Exceed MT</item>
+        <item>Xpander GLS AT</item>
+        <item>Xpander GLS MT</item>
+        <item>Xpander GLX</item>
+
+        <item>Outlander PHEV</item>
+
+        <item>Outlander Sport PX Action</item>
+        <item>Outlander Sport GLS</item>
+        <item>Outlander Sport GLX</item>
+
+        <item>Triton Ultimate</item>
+        <item>Triton Exceed AT</item>
+        <item>Triton Exceed MT</item>
+        <item>Triton GLS</item>
+        <item>Triton HDX DC</item>
+        <item>Triton HDX SC</item>
+        <item>Triton GLX SC</item>
+        <item>Triton GLX Cabin Chasis</item>
+        <item>Triton Athlete AT</item>
+        <item>Triton Athlete MT</item>
+
+        <item>Eclipse Cross Ultimate</item>
+
+        <item>L300 Pick up</item>
+        <item>L300 Flatdeck</item>
+        <item>L300 Cabin Chasis</item>
+
+        <item>Fuso Colt Diesel FE 71</item>
+        <item>Fuso Colt Diesel FE 71 BC</item>
+        <item>Fuso Colt Diesel FE 71 LBC</item>
+        <item>Fuso Colt Diesel FE 71 L</item>
+        <item>Fuso Colt Diesel FE 73</item>
+        <item>Fuso Colt Diesel FE 73 HD</item>
+        <item>Fuso Colt Diesel FE 74 HD</item>
+        <item>Fuso Colt Diesel FE 74 L</item>
+        <item>Fuso Colt Diesel FE 74 S</item>
+        <item>Fuso Colt Diesel FE 84G HDL</item>
+        <item>Fuso Colt Diesel FE 84G BC</item>
+        <item>Fuso Colt Diesel FE SHD</item>
+        <item>Fuso Colt Diesel FE SHDX</item>
+
+        <item>Fuso Fighter FM 65 FL Hi-Gear</item>
+        <item>Fuso Fighter FM 65 FS Hi-Gear</item>
+        <item>Fuso Fighter FM 65 FS</item>
+        <item>Fuso Fighter FM 65 FM Hi-Gear</item>
+        <item>Fuso Fighter FM 65 FM</item>
+        <item>Fuso Fighter FM 65 FSL Hi-Gear</item>
+        <item>Fuso Fighter FM 65 FSL</item>
+        <item>Fuso Fighter FM 65 FL</item>
+        <item>Fuso Fighter FN 62 F</item>
+        <item>Fuso Fighter FN 62 F HD</item>
+        <item>Fuso Fighter FN 61 FS</item>
+        <item>Fuso Fighter FN 61 FL</item>
+        <item>Fuso Fighter FN 61 FM HD</item>
+        <item>Fuso Fighter FM 517 HL Long</item>
+        <item>Fuso Fighter FM 517 HL</item>
+        <item>Fuso Fighter FM 517 HS</item>
+        <item>Fuso Fighter FN 517 ML 2 Super Long</item>
+        <item>Fuso Fighter FN 517 ML 2</item>
+        <item>Fuso Fighter FN 527 MS</item>
+        <item>Fuso Fighter FN 527 ML</item>
+
+        <item>Tractor head FN 62 F TH</item>
+    </string-array>
+
+    <string-array name="shift">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
